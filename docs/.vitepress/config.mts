@@ -88,9 +88,9 @@ export default defineConfig({
             // 分组标题2
             text: '基础设置',
             items: [
-              { text: '快速上手', link: '/getting-started' },
-              { text: '配置', link: '/configuration' },
-              { text: '页面', link: '/page' },
+              { text: '金渐层', link: '/getting-started' },
+              { text: '银渐层', link: '/configuration' },
+              { text: '布偶猫', link: '/page' },
               { text: 'Frontmatter', link: '/frontmatter' },
             ],
           },
@@ -138,9 +138,9 @@ export default defineConfig({
         text: '基础配置',
         collapsed: false,
         items: [
-          { text: '快速上手', link: '/getting-started' },
-          { text: '配置', link: '/configuration' },
-          { text: '页面', link: '/page' },
+          { text: '金渐层', link: '/getting-started' },
+          { text: '银渐层', link: '/configuration' },
+          { text: '布偶猫', link: '/page' },
           { text: 'Frontmatter', link: '/frontmatter' },
         ],
       },

@@ -1,311 +1,76 @@
-# 快速上手
+# 金渐层猫（Golden British Shorthair）
 
-> 更新时间：2024-1-28
+金渐层猫（Golden British Shorthair）作为英国短毛猫（British Shorthair）的一种特殊毛色变种，有着独特的历史和来源。以下是有关金渐层猫的详细信息：
 
+## 金渐层猫的来源
 
+### 英国短毛猫的起源
 
-在线体验及调试 StackBlitz：https://vitepress.new/
+- **古老品种**：英国短毛猫是一个古老的品种，其历史可以追溯到古罗马时期。当时，罗马军队将这些猫带到不列颠群岛，以帮助控制鼠患。
+- **发展和培育**：随着时间的推移，这些猫与当地的野猫杂交，逐渐形成了今天所看到的英国短毛猫。经过多年的自然选择和人为培育，英国短毛猫逐渐展现出其特有的圆脸、结实体型和浓密短毛。
 
+### 金渐层毛色的出现
 
+- **毛色遗传**：金渐层猫的金色毛色是一种相对较新的遗传变种，最早在20世纪末和21世纪初才开始被广泛认可和繁育。
+- **育种选择**：育种者通过选择性繁育，特别是通过银渐层猫（Silver Shaded Cats）和其他带有金色基因的猫种进行杂交，逐渐培育出金渐层猫。
+- **遗传特点**：金渐层毛色是由稀有的毛色基因决定的，这些基因控制着毛发色素的分布和浓度，从而形成独特的渐变效果。
 
-## 前期工作
+### 国际认可
 
-::: tip 说明
-已经安装 或者 熟练了，可以不用看此步骤
-:::
+- **注册和标准**：许多国际猫咪协会，如CFA（Cat Fanciers' Association）和TICA（The International Cat Association），都已经认可金渐层猫，并为其制定了具体的品种标准。
+- **展览和比赛**：随着金渐层猫在各大猫展中的亮相，这一美丽的毛色变种逐渐赢得了越来越多猫咪爱好者的喜爱和关注。
 
-::: details 必备工具
+### 繁育和分布
 
-必装：[安装nodejs](https://yiov.top/website/nodejs.html)
+- **繁育基地**：如今，金渐层猫在全球各地都有繁育者和爱好者，特别是在欧洲和北美洲。
+- **市场需求**：由于其独特的外观和温顺的性格，金渐层猫在宠物市场上备受欢迎，许多家庭选择它们作为伴侣宠物。
 
-建议安装：[安装vscode](https://yiov.top/website/VSCode.html)
+通过以上信息可以看出，金渐层猫作为英国短毛猫的一个特殊毛色变种，其来源是通过育种者长期努力选择性繁育的结果。它们不仅继承了英国短毛猫的优良特性，还因其独特的金色毛发而备受喜爱。
 
-可选安装：[安装git](https://yiov.top/website/git.html)
-:::
+### 特点
 
+- **毛色**：金渐层猫以其独特的金色渐变毛色而著名。毛发颜色从浅金色到深金色不等，带有美丽的渐变效果。
+- **眼睛**：通常为绿色或金色，大而圆的眼睛增添了它们的可爱外观。
+- **体型**：体型结实，肌肉发达。它们的身体较为圆润，骨骼粗壮。
+- **毛发**：毛发短而密，触感柔软。
 
+### 优点
 
+- **外观美丽**：金渐层猫的金色毛发和圆脸使它们看起来非常可爱和优雅。
+- **性格温顺**：它们通常性格友好，温顺，适合作为家庭宠物。
+- **适应力强**：能够很好地适应室内生活，不容易受环境变化影响。
+- **独立性强**：虽然喜欢与人互动，但也能够独立玩耍，不需要主人过多的关注。
 
-:::: details pnpm / yarn / bun
+### 生活习惯
 
-::: code-group
-```sh [pmpm]
-#安装pnpm
-npm install -g pnpm
-#查看版本号
-pnpm -v
-```
+- **喜静**：金渐层猫比较安静，不像一些猫咪那样喜欢吵闹。
+- **亲人**：它们喜欢和主人在一起，享受被抚摸和拥抱，但也不会过分粘人。
+- **喜欢玩耍**：尽管它们性格温和，但仍然喜欢玩耍，尤其是互动性强的玩具。
+- **睡眠时间长**：像大多数猫咪一样，金渐层猫每天需要较长时间的睡眠。
 
-```sh [yarn]
-#安装yarn
-npm install -g yarn
-#查看版本号
-yarn -v
-```
+### 饮食习惯
 
-```sh [bun]
-#安装yarn
-npm install -g bun
-#查看版本号
-bun -v
-```
-:::
-::::
+- **高质量猫粮**：推荐选择优质的猫粮，确保营养均衡。猫粮应含有足够的蛋白质、脂肪、维生素和矿物质。
+- **适量喂食**：避免过度喂食，根据猫咪的年龄、体重和活动水平来调整食量。通常一天喂食两次，早晚各一次。
+- **新鲜水源**：确保猫咪随时都有新鲜的水喝。可以使用猫咪饮水机来增加饮水量，保持其健康。
+- **零食控制**：偶尔可以给一些猫咪零食，但要注意控制量，避免养成挑食的习惯。
 
+### 养护要点
 
+- **定期梳理毛发**：尽管金渐层猫的毛发较短，但定期梳理可以帮助去除死毛，保持毛发光滑。
+- **定期清洁**：保持猫咪的清洁，包括耳朵、眼睛和牙齿的清洁。
+- **定期健康检查**：每年带猫咪去兽医那里进行一次全面的健康检查，预防和及时治疗潜在的健康问题。
 
+### 缺点
 
-:::: details 创建目录
+尽管金渐层猫有许多优点，但也有一些可能被认为是缺点的特点：
 
-win键+R键，调出命令运行框，输入 `cmd`
+- **体型偏重**：由于其结实的体型和肌肉发达，金渐层猫倾向于体重偏重。这可能导致一些健康问题，如关节压力增加和运动能力降低。因此，主人需要特别注意控制饮食，避免过度喂食，确保猫咪保持健康的体重。
 
-先进入任意盘符，比如 `F` 盘
+- **脱毛**：尽管金渐层猫的毛发密而短，但它们也会脱毛。特别是在换季期间，它们可能会大量脱毛，需要定期梳理来减少家里的毛发飞扬现象。
 
-```sh
-#盘符可以自定义 回车进入
-f:
-```
+- **成本较高**：作为一种特殊的毛色变种，金渐层猫通常价格较高。除了购买成本之外，由于其特殊的毛发类型，可能需要更多的护理和照料成本。
 
-再创建文件夹名
+- **宠物过敏反应**：尽管金渐层猫的短毛和密度较高，减少了过敏原的释放，但某些人仍可能对其过敏。潜在的宠物过敏反应可能会影响家庭成员或访客。
 
-```sh
-#目录可以自定义
-mkdir vitepress
-
-#目录和上面保持一致
-cd vitepress
-```
-::: warning 说明
-这样我的目录路径为 `F:\vitepress`
-
-我们先关闭cmd，一会介绍快捷的方法
-:::
-::::
-
-
-
-
-
-
-## 安装
-
-### 安装依赖
-
-在目录上方的地址栏，比如我的是 `F:\vitepress` 上输入 `cmd` 回车可以快捷打开
-
-
-::: code-group
-```sh [pmpm]
-pnpm add -D vitepress
-```
-
-```sh [yarn]
-yarn add -D vitepress
-```
-
-```sh [npm]
-npm i -D vitepress
-```
-
-```sh [bun]
-bun add -D vitepress
-```
-:::
-
-::: details 收到了缺少对等依赖的警告
-如果使用 PNPM，您会注意到 `@docsearch/js` 缺少对等警告。这并不妨碍 VitePress 工作。如果您希望抑制此警告，请将以下内容添加到您的 `package.json`
-
-注意：最新版已经不会提示了！
-
-```
-"pnpm": {
-  "peerDependencyRules": {
-    "ignoreMissing": [
-      "@algolia/client-search",
-      "search-insights"
-    ]
-  }
-}
-```
-:::
-
-::: tip 说明
-VitePress是一个仅支持ESM的软件包。不要使用 `require()` 来导入它，并确保您最新的 `package.json` 文件包含 `"type": "module"` ，或者更改相关文件的扩展名，例如 `vitepress/config.js` 更改为 `.mjs` / `.mts`。有关更多详细信息，请参考 [Vite的故障排除指南](https://cn.vitejs.dev/guide/troubleshooting#this-package-is-esm-only) 。此外，在异步的CJS上下文中，您可以使用 `await import('vitepress')` 来代替。
-:::
-
-
-### 初始化向导
-
-
-::: code-group
-```sh [pmpm]
-pnpm vitepress init
-```
-
-```sh [yarn]
-yarn vitepress init
-```
-
-```sh [npm]
-npx vitepress init
-```
-
-```sh [bun]
-bunx vitepress init
-```
-:::
-
-
-::: details 文件位置放在 `./docs`
-文件夹名参照下面，你也可以自己改
-
-如果你直接回车，则是放在了根目录 `./`，那你的 [脚本命令](#脚本命令) 也要修改一下
-:::
-
-
-
-```sh{4}
-T   Welcome to VitePress!
-|
-o  Where should VitePress initialize the config?
-|  ./docs
-|
-o  Site title:
-|  My Awesome Project
-|
-o  Site description:
-|  A VitePress Site
-|
-o  Theme:
-|  Default Theme
-|
-o  Use TypeScript for config and theme files?
-|  Yes
-|
-o  Add VitePress npm scripts to package.json?
-|  Yes
-|
-—  Done! Now run npm run docs:dev and start writing.
-```
-
-::: tip Vue 作为对等依赖
-如果您打算使用 Vue 组件或 API 进行自定义，您还应该显式 [安装 vue](./components.md#安装) 作为对等依赖项
-
-暂时用不到的，我们后面会再详细说
-:::
-
-
-### 脚本命令
-
-::: warning 注意
-如果你在初始化的时候选择了 `./` ，而不是 `./doc`，这里就需要修改
-
-否则，不用动
-:::
-
-```json
-  "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
-  }
-```
-
-
-
-
-### git忽略项
-
-添加 `.gitignore` 文件，主要用于上传到gitee/github时，忽略这些文件不上传
-
-```sh
-echo node_modules >> .gitignore
-
-echo cache >> .gitignore
-
-echo dist >> .gitignore
-```
-
-
-
-
-
-## 启动
-
-本地启动开发环境，来开发你的网站
-
-::: tip 如何退出
-ctrl+c 即可退出开发模式
-:::
-
-::: code-group
-```sh [pmpm]
-pnpm run docs:dev
-```
-
-```sh [yarn]
-yarn docs:dev
-```
-
-```sh [npm]
-npm run docs:dev
-```
-
-```sh [bun]
-bun run docs:dev
-```
-:::
-
-
-
-生成了一个本地 `5173` 端口的链接，可以对网站进行预览
-
-
-此时，VitePress已经搭建好了一个基础的网站
-
-`http://localhost:5173/`
-
-::: tip 说明
-接下来我们可以关闭cmd，全程用 vscode 了
-:::
-
-
-
-
-
-:::: details 拓展：启动端口修改
-
-需要在 [脚本命令](#脚本命令) 中修改端口
-
-::: warning 注意
-若无必要，不用修改
-:::
-
-这样就是 `8080` 端口启动了
-
-```json{2}
-  "scripts": {
-    "docs:preview": "vitepress preview docs --port 8080" // [!code focus]
-  }
-```
-::::
-
-
-:::: details 拓展：其他启动命令
-
-你也可以直接调用命令
-
-::: code-group
-```sh [pmpm]
-pnpm exec vitepress dev docs
-```
-
-```sh [npm]
-npx vitepress dev docs
-```
-
-```sh [bun]
-bunx vitepress dev docs
-```
-:::
-::::
+这些缺点并不影响金渐层猫作为一种可爱、友好和受欢迎的宠物选择，但是潜在的主人应该了解并考虑到这些方面，以做出符合自身条件和家庭情况的选择。

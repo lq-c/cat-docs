@@ -1,175 +1,64 @@
-# 配置
+# 银渐层猫（Silver Shaded British Shorthair）
 
-> 更新时间：2024-1-28
+银渐层猫（Silver Shaded British Shorthair）是英国短毛猫（British Shorthair）的一种特殊毛色变种，有着独特的历史和来源。以下是有关银渐层猫来源的详细信息：
 
+## 银渐层猫的来源
 
+### 英国短毛猫的起源
 
-## 目录
+- **古老品种**：英国短毛猫是一个古老的品种，其历史可以追溯到古罗马时期。当时，罗马军队将这些猫带到不列颠群岛，以帮助控制鼠患。
+- **发展和培育**：随着时间的推移，这些猫与当地的野猫杂交，逐渐形成了今天所看到的英国短毛猫。经过多年的自然选择和人为培育，英国短毛猫逐渐展现出其特有的圆脸、结实体型和浓密短毛。
 
-搭建完成后，可以看到一个已经完善的目录,在此基础上我们可以进行修改和新增
+### 银渐层毛色的出现
 
-::: tip 说明
-`index.md` 是我们的首页，最后也渲染成 `index.html`
+- **毛色遗传**：银渐层猫的银色毛色是一种特殊的遗传变种，这种毛色的猫首次出现是在20世纪初。通过育种者的不断努力和选择性繁育，这种美丽的银色渐变毛色才得以稳定和普及。
+- **育种选择**：育种者通过选择性繁育，将银色基因引入英国短毛猫的基因库中，逐渐培育出银渐层猫。
+- **遗传特点**：银渐层毛色是由稀有的毛色基因决定的，这些基因控制着毛发色素的分布和浓度，从而形成独特的渐变效果。
 
-你也可以命名成 `README.md`
-:::
+### 国际认可
 
-```
-.
-├─ docs
-│  ├─ .vitepress
-│  │  └─ config.mts          <-- 配置文件已由ts变成mts
-│  ├─ api-examples.md        <-- 文章1
-│  ├─ markdown-examples.md   <-- 文章2
-│  ├─ guide                  <-- 新增目录
-│  │   └─ index.md           <-- 新增目录的首页
-│  └─ index.md               <-- 首页
-└─ package.json
-```
+- **注册和标准**：许多国际猫咪协会，如CFA（Cat Fanciers' Association）和TICA（The International Cat Association），都已经认可银渐层猫，并为其制定了具体的品种标准。
+- **展览和比赛**：随着银渐层猫在各大猫展中的亮相，这一美丽的毛色变种逐渐赢得了越来越多猫咪爱好者的喜爱和关注。
 
-生成的 HTML 页面会是这样：
+### 繁育和分布
 
-```
-api-examples.md         -->    /api-examples.html
-markdown-examples.md    -->    /markdown-examples.html
-index.md                -->    /index.html (可以通过 / 访问)
-guide/index.md          -->    /guide/index.html (可以通过 /guide/ 访问)
-```
+- **繁育基地**：如今，银渐层猫在全球各地都有繁育者和爱好者，特别是在欧洲和北美洲。
+- **市场需求**：由于其独特的外观和温顺的性格，银渐层猫在宠物市场上备受欢迎，许多家庭选择它们作为伴侣宠物。
 
+通过以上信息可以看出，银渐层猫作为英国短毛猫的一个特殊毛色变种，其来源是通过育种者长期努力选择性繁育的结果。它们不仅继承了英国短毛猫的优良特性，还因其独特的银色毛发而备受喜爱。
 
+### 特点
 
+- **毛色**：银渐层猫以其独特的银色渐变毛色而著名。毛发颜色从浅银色到深银色不等，带有美丽的渐变效果。
+- **眼睛**：通常为绿色或蓝绿色，大而圆的眼睛增添了它们的可爱外观。
+- **体型**：体型结实，肌肉发达。它们的身体较为圆润，骨骼粗壮。
+- **毛发**：毛发短而密，触感柔软。
 
-## 配置
+### 优点
 
-在目录，右键用 vscode 打开，正式开始开发
+- **外观美丽**：银渐层猫的银色毛发和圆脸使它们看起来非常可爱和优雅。
+- **性格温顺**：它们通常性格友好，温顺，适合作为家庭宠物。
+- **适应力强**：能够很好地适应室内生活，不容易受环境变化影响。
+- **独立性强**：虽然喜欢与人互动，但也能够独立玩耍，不需要主人过多的关注。
 
-```md{4}
-.
-├─ docs
-│  ├─ .vitepress
-│  │  └─ config.mts           <--  配置文件，支持js、ts、mjs、mts
-│  ├─ api-examples.md
-│  ├─ markdown-examples.md
-│  └─ index.md
-└─ package.json
-```
+### 生活习惯
 
-配置已经写好了，我们点击 `config.mts` ，在此基础上修改就行了
+- **喜静**：银渐层猫比较安静，不像一些猫咪那样喜欢吵闹。
+- **亲人**：它们喜欢和主人在一起，享受被抚摸和拥抱，但也不会过分粘人。
+- **喜欢玩耍**：尽管它们性格温和，但仍然喜欢玩耍，尤其是互动性强的玩具。
+- **睡眠时间长**：像大多数猫咪一样，银渐层猫每天需要较长时间的睡眠。
 
+### 饮食习惯
 
-```ts
-import { defineConfig } from 'vitepress'
+- **高质量猫粮**：推荐选择优质的猫粮，确保营养均衡。猫粮应含有足够的蛋白质、脂肪、维生素和矿物质。
+- **适量喂食**：避免过度喂食，根据猫咪的年龄、体重和活动水平来调整食量。通常一天喂食两次，早晚各一次。
+- **新鲜水源**：确保猫咪随时都有新鲜的水喝。可以使用猫咪饮水机来增加饮水量，保持其健康。
+- **零食控制**：偶尔可以给一些猫咪零食，但要注意控制量，避免养成挑食的习惯。
 
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
-  lang: 'zh-CN',
-  title: 'VitePress',
-  //titleTemplate: '另起标题覆盖title'
-  description: 'Vite & Vue 驱动的静态网站生成器',
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    //导航
-    nav: [
-      { text: 'Home', link: '/' }, 
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-    //侧边栏
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
-    //社交链接
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+### 养护要点
 
-```
+- **定期梳理毛发**：尽管银渐层猫的毛发较短，但定期梳理可以帮助去除死毛，保持毛发光滑。
+- **定期清洁**：保持猫咪的清洁，包括耳朵、眼睛和牙齿的清洁。
+- **定期健康检查**：每年带猫咪去兽医那里进行一次全面的健康检查，预防和及时治疗潜在的健康问题。
 
-
-
-:::: details 如何重新进入开发模式
-
-::: tip 如何退出
-ctrl+c 即可退出开发模式
-:::
-
-::: code-group
-```sh [pmpm]
-pnpm run docs:dev
-```
-
-```sh [yarn]
-yarn docs:dev
-```
-
-```sh [npm]
-npm run docs:dev
-```
-
-```sh [bun]
-bun run docs:dev
-```
-:::
-::::
-
-
-
-
-
-## 纯净链接
-
-这是一个简单又麻烦的事，需要服务器支持，在默认情况下Vitepress的链接以 `.html` 结尾
-
-
-### 服务器支持
-
-* [Netlify](https://docs.netlify.com/get-started/) 和 [GitHub Pages](https://pages.github.com/) 是无需配置
-
-* [Vercel](https://vercel.com/docs/concepts/get-started) 需要在 [vercel.json 中启用 cleanUrls 选项](https://vercel.com/docs/projects/project-configuration#cleanurls)
-
-
-确保文章在引用是没有使用 `*md` 的后缀名
-
-```
-[Getting Started](./getting-started)
-[Getting Started](../guide/getting-started)
-```
-
-
-然后在 `config.mts` 中配置如下
-
-```ts{2}
-export default defineConfig({
-  cleanUrls:true,
-})
-```
-
-
-### 服务器不支持
-
-需要变更下目录，将原先的文档放入文件夹中
-
-原先的 `api-examples.md` 变成了 `api-examples/index.md`
-
-```md{5,7}
-.
-├─ docs
-│  ├─ .vitepress
-│  ├─ api-examples           
-│  │  └─ index.md            <-- 文章1
-│  ├─ markdown-examples      
-│  │  └─ index.md            <-- 文章2
-│  └─ index.md               <-- 首页
-└─ package.json
-```
-
-
-
-
+通过这些日常护理和饮食习惯，您可以确保银渐层猫过上健康、快乐的生活。
