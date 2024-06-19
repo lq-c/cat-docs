@@ -482,10 +482,7 @@ bun add -D markdown-it-task-checkbox
 ::: details 关于 CJS 和 ESM
 commonjs：简称CJS，`module.exports` `exports` 导出，`require` 导入
 
-ES module：简称ESM，`export` 导出，`import` 导入
-
-这个我们在最开始 [安装Vitepress依赖](./getting-started.md#安装依赖) 的时候也提到过
-:::
+ES module：简称ESM，`export` 导出，`import` 导
 
 ```ts{2,5-16}
 // .vitepress/config.mts

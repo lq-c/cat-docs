@@ -1256,8 +1256,6 @@ import { NAV_DATA } from '/.vitepress/theme/untils/data'
 ### 优化：搜索
 
 
-默认自带的本地搜索无法爬取到导航，建议使用 [Algolia](../page.md#algolia)
-
 还需要增加页面的 `outline` 配置项
 
 ```md
