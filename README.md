@@ -7,3 +7,5 @@
 ## 访问
 
 * [宠物猫入门教程](https://cat.zhuyu.cc)
+
+* <a href="https://cat.zhuyu.cc" target="_blank">宠物猫入门教程</a>
