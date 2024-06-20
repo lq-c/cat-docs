@@ -7,7 +7,7 @@ import timeline from "vitepress-markdown-timeline";
 export default defineConfig({
   lang: 'zh-CN',
   title: "宠物猫指南",
-  description: "宠物猫指南教程",
+  description: "宠物猫入门指南教程",
 
   // #region fav
   head: [
@@ -21,7 +21,7 @@ export default defineConfig({
 
 
   //启用深色模式
-  appearance: 'dark',
+  appearance: true,
 
   //多语言
   locales: {
