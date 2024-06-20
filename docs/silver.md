@@ -1,5 +1,7 @@
 # 银渐层猫（Silver Shaded British Shorthair）
 
+![银渐层图片](/cats/silver.png)
+
 银渐层猫（Silver Shaded British Shorthair）是英国短毛猫（British Shorthair）的一种特殊毛色变种，有着独特的历史和来源。以下是有关银渐层猫来源的详细信息：
 
 ## 银渐层猫的来源

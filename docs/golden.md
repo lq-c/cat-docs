@@ -1,5 +1,7 @@
 # 金渐层猫（Golden British Shorthair）
 
+![金渐层图片](/cats/golden/1.webp)
+
 金渐层猫（Golden British Shorthair）作为英国短毛猫（British Shorthair）的一种特殊毛色变种，有着独特的历史和来源。以下是有关金渐层猫的详细信息：
 
 ## 金渐层猫的来源
