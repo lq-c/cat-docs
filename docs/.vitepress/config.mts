@@ -104,7 +104,9 @@ export default defineConfig({
             text: '猫猫日常',
             items: [
               { text: '疫苗接种指南', link: '/Vaccine' },
-              { text: '宠物猫到家指南', link: '/goHome' },
+              { text: '猫咪到家指南', link: '/goHome' },
+              { text: '猫咪饮食指南', link: '/diet' },
+              { text: '猫咪互动指南', link: '/interactive' },
             ],
           },
         ],
@@ -148,7 +150,9 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '疫苗接种指南', link: '/Vaccine' },
-          { text: '宠物猫到家指南', link: '/goHome' }
+          { text: '宠物猫到家指南', link: '/goHome' },
+          { text: '猫咪饮食指南', link: '/diet' },
+          { text: '猫咪互动指南', link: '/interactive' },
         ],
       },
     ],
